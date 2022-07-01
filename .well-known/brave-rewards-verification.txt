@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: techwithjake.github.io
+Token: db5b533a31db7caf3f6153725d8fefaf1f5b84068d861537ecc6c2aa507cd8f5
